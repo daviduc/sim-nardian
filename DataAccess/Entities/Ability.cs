@@ -35,7 +35,7 @@ namespace DataAccess.Entities
 
             builder.HasOne(a => a.Card)
                 .WithMany(c => c.Abilities)
-                .HasForeignKey(a => a.CardId);
+                .HasForeignKey(a => a.CardId)
                 .OnDelete(DeleteBehavior.SetNull);  // Optional: Set null on delete
 
             builder.Property(a => a.EffectType)

@@ -13,8 +13,8 @@ namespace DataAccess.Entities
         public int Mana { get; set; }
         public int Health { get; set; }
         public int Armor { get; set; }
-        public boolean IsGladiator {get;set;}
-        public boolean IsSoulBound {get;set;}
+        public bool IsGladiator {get;set;}
+        public bool IsSoulBound {get;set;}
         public League League {get;set;}
         public List<Ability> Abilities {get;set;}
 

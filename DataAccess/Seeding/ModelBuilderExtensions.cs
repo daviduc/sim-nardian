@@ -22,7 +22,7 @@ namespace DataAccess.Seeding
                 new Ability { Id =12, Name = "Corrosive Ward",CanDispel=false,CanClean=false,WorksAgainstImmunity=true },
                 new Ability { Id =13, Name = "Cripple",CanDispel=false,CanClean=false,WorksAgainstImmunity=true },
                 new Ability { Id =14, Name = "Deathblow",CanDispel=false,CanClean=false,WorksAgainstImmunity=true },
-                new Ability { Id =15, Name = "Demoralize",,CanDispel=false,CanClean=true,WorksAgainstImmunity=false },
+                new Ability { Id =15, Name = "Demoralize",CanDispel=false,CanClean=true,WorksAgainstImmunity=false },
                 new Ability { Id =16, Name = "Dispel",CanDispel=false,CanClean=false,WorksAgainstImmunity=true },
                 new Ability { Id =17, Name = "Divine Shield",CanDispel=false,CanClean=false,WorksAgainstImmunity=true },
                 new Ability { Id =18, Name = "Dodge",CanDispel=false,CanClean=false,WorksAgainstImmunity=true },
@@ -81,7 +81,7 @@ namespace DataAccess.Seeding
                 new Ability { Id =71, Name = "Void",CanDispel=false,CanClean=false,WorksAgainstImmunity=true },
                 new Ability { Id =72, Name = "Void Armor",CanDispel=false,CanClean=false,WorksAgainstImmunity=true },
                 new Ability { Id =73, Name = "Weaken",CanDispel=false,CanClean=true,WorksAgainstImmunity=false },
-                new Ability { Id =74, Name = "Weapons Training",CanDispel=true,CanClean=false,WorksAgainstImmunity=true },
+                new Ability { Id =74, Name = "Weapons Training",CanDispel=true,CanClean=false,WorksAgainstImmunity=true }
                 // ... other abilities
 
             );
