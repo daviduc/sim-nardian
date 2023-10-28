@@ -1,0 +1,4 @@
+2023-10-27 13:42:46.845 -07:00 [INF] Game simulation started.
+2023-10-27 13:42:46.877 -07:00 [INF] Game simulation ended.
+2023-10-27 15:10:57.755 -07:00 [INF] Game simulation started.
+2023-10-27 15:10:57.792 -07:00 [INF] Game simulation ended.

@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ow4C8XJPnloTrcJ8lPg18djH0rc5oY5E897c5zfRFw3Y3JVSBqOsc8TcSLQqm91GoULfCmWcaHFrkZbb5YFbjA==",
+  "success": true,
+  "projectFilePath": "/home/davidcho/sim-nardian/Utils/Utils.csproj",
+  "expectedPackageFiles": [
+    "/home/davidcho/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "/home/davidcho/.nuget/packages/microsoft.extensions.configuration.binder/7.0.0/microsoft.extensions.configuration.binder.7.0.0.nupkg.sha512",
+    "/home/davidcho/.nuget/packages/microsoft.extensions.dependencymodel/7.0.0/microsoft.extensions.dependencymodel.7.0.0.nupkg.sha512",
+    "/home/davidcho/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "/home/davidcho/.nuget/packages/serilog/3.0.1/serilog.3.0.1.nupkg.sha512",
+    "/home/davidcho/.nuget/packages/serilog.settings.configuration/7.0.1/serilog.settings.configuration.7.0.1.nupkg.sha512",
+    "/home/davidcho/.nuget/packages/serilog.sinks.console/4.1.0/serilog.sinks.console.4.1.0.nupkg.sha512",
+    "/home/davidcho/.nuget/packages/serilog.sinks.file/5.0.0/serilog.sinks.file.5.0.0.nupkg.sha512",
+    "/home/davidcho/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
+    "/home/davidcho/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

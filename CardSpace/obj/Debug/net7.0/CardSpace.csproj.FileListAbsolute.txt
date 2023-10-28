@@ -1,0 +1,11 @@
+/home/davidcho/sim-nardian/CardSpace/bin/Debug/net7.0/CardSpace.deps.json
+/home/davidcho/sim-nardian/CardSpace/bin/Debug/net7.0/CardSpace.dll
+/home/davidcho/sim-nardian/CardSpace/bin/Debug/net7.0/CardSpace.pdb
+/home/davidcho/sim-nardian/CardSpace/obj/Debug/net7.0/CardSpace.GeneratedMSBuildEditorConfig.editorconfig
+/home/davidcho/sim-nardian/CardSpace/obj/Debug/net7.0/CardSpace.AssemblyInfoInputs.cache
+/home/davidcho/sim-nardian/CardSpace/obj/Debug/net7.0/CardSpace.AssemblyInfo.cs
+/home/davidcho/sim-nardian/CardSpace/obj/Debug/net7.0/CardSpace.csproj.CoreCompileInputs.cache
+/home/davidcho/sim-nardian/CardSpace/obj/Debug/net7.0/CardSpace.dll
+/home/davidcho/sim-nardian/CardSpace/obj/Debug/net7.0/refint/CardSpace.dll
+/home/davidcho/sim-nardian/CardSpace/obj/Debug/net7.0/CardSpace.pdb
+/home/davidcho/sim-nardian/CardSpace/obj/Debug/net7.0/ref/CardSpace.dll

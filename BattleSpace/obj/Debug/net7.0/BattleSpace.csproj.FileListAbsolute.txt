@@ -1,0 +1,11 @@
+/home/davidcho/sim-nardian/BattleSpace/bin/Debug/net7.0/BattleSpace.deps.json
+/home/davidcho/sim-nardian/BattleSpace/bin/Debug/net7.0/BattleSpace.dll
+/home/davidcho/sim-nardian/BattleSpace/bin/Debug/net7.0/BattleSpace.pdb
+/home/davidcho/sim-nardian/BattleSpace/obj/Debug/net7.0/BattleSpace.GeneratedMSBuildEditorConfig.editorconfig
+/home/davidcho/sim-nardian/BattleSpace/obj/Debug/net7.0/BattleSpace.AssemblyInfoInputs.cache
+/home/davidcho/sim-nardian/BattleSpace/obj/Debug/net7.0/BattleSpace.AssemblyInfo.cs
+/home/davidcho/sim-nardian/BattleSpace/obj/Debug/net7.0/BattleSpace.csproj.CoreCompileInputs.cache
+/home/davidcho/sim-nardian/BattleSpace/obj/Debug/net7.0/BattleSpace.dll
+/home/davidcho/sim-nardian/BattleSpace/obj/Debug/net7.0/refint/BattleSpace.dll
+/home/davidcho/sim-nardian/BattleSpace/obj/Debug/net7.0/BattleSpace.pdb
+/home/davidcho/sim-nardian/BattleSpace/obj/Debug/net7.0/ref/BattleSpace.dll
